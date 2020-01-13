@@ -423,13 +423,13 @@
 
 # External link 
 - title: Piazza (Section 2 Communications) 
-  url: https://piazza.com/class/jzeez8noxxl7eh 
+  url: http://piazza.com/rpi/spring2020/introductiontomachinelearningapplications 
   external: true 
   not_numbered: true 
 
 # External link 
 - title: Slack (Section 1 Communications) 
-  url: https://rpibsan2020.slack.com/ 
+  url: https://spring2020int-x6w9992.slack.com/ 
   external: true 
   not_numbered: true 
 
