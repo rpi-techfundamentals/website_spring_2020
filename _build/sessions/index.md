@@ -13,7 +13,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 |  Week    |  Session  |    Day    |  Date    |  Topic  |
 |  :---:  |  :-----:  |  :---:  |  :---:  |  :----  |
-|  1  |  1  |  M  |  01/13  |  **Course  Overview  &  Introduction  to  the  Data  Science  Lifecycle**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session1.html)  <br>  *Assignment  1  due  01/20  11:59  PM*  <br>  |
+|  1  |  1  |  M  |  01/13  |  **Course  Overview  &  The  Machine  Learning  Landscape**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session1.html)  <br>  *Assignment  1  due  01/20  11:59  PM*  <br>  |
 |  1  |  2  |  Th  |  01/16  |  **Python  Basics**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session2.html)  |
 |  2  |    |  M  |  01/20  |  **Martin  Luther  King  Jr.  Day.  Staff  holiday.  No  classes.**  <br>    <br>  **  <br>  |
 |  2  |  3  |  Th  |  01/23  |  **Python  Basics**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session3.html)  |

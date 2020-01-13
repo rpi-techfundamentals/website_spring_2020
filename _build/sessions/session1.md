@@ -8,7 +8,7 @@ next_page:
   title: 'Session 2'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
-<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Course  Overview  &  Introduction  to  the  Data  Science  Lifecycle</h1> 
+<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Course  Overview  &  The  Machine  Learning  Landscape</h1> 
 --- 
  
 ###  Coming  Soon 

@@ -9,7 +9,7 @@
 ###  Jason  Kuruzovich  (Instructor) 
 -  Email:  kuruzj@rpi.edu 
 -  Office  location:  Pittsburgh  4108 
--  Office  hours:  Monday  1:00  PM  –  3:00  PM   
+-  Office  hours:  Monday  2:00  PM  –  4:00  PM   
 -  Phone:  518-698-9910 
 
 ###  Lydia  Manikonda  (Instructor) 
@@ -18,10 +18,10 @@
 -  Office  hours:  Thursday  10:00  AM  --  12:00  PM 
 -  Phone:  *N/A* 
 
-###  TBD  (TA) 
--  Email:  TBD 
--  Office  Location:  TBD 
--  Office  hours:  TBD 
+###  Kofi  Arhin    (TA) 
+-  Email:  arhink@rpi.edu 
+-  Office  Location:  2126  Pittsburgh 
+-  Office  hours:  Thursdays  10:00  AM  –  12:00  PM 
 -  Phone:  *N/A* 
 
 Ask  technical  questions  related  to  to  class  to  an  appropriate  slack  channel  (#homework/#lab).  This  will  ensure  that  everyone  can  jump  in  and  help. 
@@ -40,7 +40,9 @@ Slack  (see  link  on  left  tab)  will  be  the  primary  method  of  communica
  
 This  Dropbox  Share  (see  link  on  left  tab)  will  include  all  presentations,  syllabus,  etc.       
  
-Previous  version  of  the  course  are  available  in  [here](http://archive.analyticsdojo.com). 
+Fall  2019  version  of  the  class  available  [here](http://rpifall2019.analyticsdojo.com). 
+ 
+Earlier  version  of  the  course  are  available  in  [here](http://archive.analyticsdojo.com). 
  
  
 ###  Prerequisites 
