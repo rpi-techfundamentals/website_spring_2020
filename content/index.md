@@ -1,7 +1,7 @@
 <h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center;">Intro  to  Machine  Learning  Applications</h1>
 ##  General  Info 
 --- 
--  When:  Section  1:  Monday/Thursday  12:00-1:30    Section  2:   
+-  When:  Section  1:  Monday/Thursday  12:00-1:30    Section  2:    Monday/Thursday  10:00-11:30 
 -  Where:   
 
 ##  Contact  Info 
