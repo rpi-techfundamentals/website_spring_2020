@@ -1,6 +1,29 @@
 <h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Python  visualization,  data  manipulation  ,  and  feature  creation.</h1> 
 --- 
  
-###  Coming  Soon 
+###  Description 
+--- 
  
-Session  content  is  being  updated.  Please  check  back.
+Lab/homework 
+ 
+###  Learning  Objectives 
+---   
+ 
+*None* 
+ 
+###  Readings  (and  Tasks  to  Be  Completed  Before  Class) 
+--- 
+ 
+*None* 
+ 
+###  Notebooks 
+--- 
+[See  all  notebooks  link.](https://rpi.analyticsdojo.com/notebooks/index.html) 
+ 
+ 
+###  Assignment 
+--- 
+ 
+|  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
+|  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
+|  3  |  02/06  |  This  assignment  will  give  you  some  practice  in  creating  functions,  filtering  and  slicing  dataframes,  and  applying  if  statements.    We  wil  also  enter  our  first  Kaggle  competition.  |    |

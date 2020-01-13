@@ -1,6 +1,29 @@
 <h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Python  conditionals,  loops,  functions,  aggregating.  </h1> 
 --- 
  
-###  Coming  Soon 
+###  Description 
+--- 
  
-Session  content  is  being  updated.  Please  check  back.
+Lab/Homework 
+ 
+###  Learning  Objectives 
+---   
+ 
+*None* 
+ 
+###  Readings  (and  Tasks  to  Be  Completed  Before  Class) 
+--- 
+ 
+*None* 
+ 
+###  Notebooks 
+--- 
+[See  all  notebooks  link.](https://rpi.analyticsdojo.com/notebooks/index.html) 
+ 
+ 
+###  Assignment 
+--- 
+ 
+|  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
+|  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
+|  2  |  01/30  |  This  assignment  will  require  you  to  gain  some  familiarity  with  working  with  a  variety  of  different  Python  data  structures  (sets,  lists,  dictionaries)  as  well  as  packages  (numpy,  pandas)  |    |
