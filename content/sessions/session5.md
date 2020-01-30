@@ -26,4 +26,4 @@ Lab/homework
  
 |  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
 |  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
-|  3  |  02/06  |  This  assignment  will  give  you  some  practice  in  creating  functions,  filtering  and  slicing  dataframes,  and  applying  if  statements.    We  wil  also  enter  our  first  Kaggle  competition.  |    |
+|  3  |  02/06  |  This  assignment  will  give  you  some  practice  in  creating  functions,  filtering  and  slicing  dataframes,  and  applying  if  statements.    We  wil  also  enter  our  first  Kaggle  competition.  |  [![Open  In  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/hm-03-starter/blob/master/hm.ipynb)  |  [Submit  to  Github](https://classroom.github.com/a/gC7eBBUv)  |
