@@ -26,4 +26,4 @@ Lab/homework
  
 |  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
 |  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
-|  4  |  02/13  |  This  assignment  gives  exposure  to  processing  Twitter  data,  creating  visualizations  with  seaborn,  processing  websites  with  beautiful  soup,  and  processing  text  with  regular  expressions.    |    |
+|  4  |  02/13  |  This  assignment  gives  exposure  to  processing  Twitter  data,  creating  visualizations  with  seaborn,  processing  websites  with  beautiful  soup,  and  processing  text  with  regular  expressions.    |  [![Open  In  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/hm-04-starter/blob/master/hm.ipynb)  |  [Submit  to  Github](https://classroom.github.com/a/KeOUZIyH)  |
