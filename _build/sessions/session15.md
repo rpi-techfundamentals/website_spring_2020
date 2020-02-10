@@ -14,7 +14,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ###  Description 
 --- 
  
-Lab/homework 
+Midterm 
  
 ###  Learning  Objectives 
 ---   
@@ -36,4 +36,4 @@ Lab/homework
  
 |  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
 |  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
-|  8  |  03/12  |  This  is  an  assignment  on  unsupervised  models.    |    |
+|  7  |  03/12  |  Please  correct  your  midterm  as  homework.  Resubmit  to  same  repository.    |    |

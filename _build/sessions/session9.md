@@ -36,4 +36,4 @@ Lab/homework
  
 |  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
 |  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
-|  5  |  02/20  |  This  assignment  introduces  modeling  and  gives  students  experience  with  both  the  train/test  split,  confusion  matrix,  and  KNN.    |    |
+|  5  |  02/20  |  This  assignment  introduces  modeling  and  gives  students  experience  with  both  the  train/test  split,  confusion  matrix,  and  KNN.    |  [![Open  In  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/hm-05-starter/blob/master/hm.ipynb)  |  [Submit  to  Github](https://classroom.github.com/a/oTZodmBn)  |

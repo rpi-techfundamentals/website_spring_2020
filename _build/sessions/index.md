@@ -26,9 +26,9 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 |  6  |  10  |  Tu  |  02/18  |  **Introduction  to  R**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session10.html)  <br>  **  <br>  |
 |  6  |  11  |  Th  |  02/21  |  **Introduction  to  R**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session11.html)  |
 |  7  |  12  |  M  |  02/24  |  **Python  and  Regression**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session12.html)  |
-|  7  |  13  |  Th  |  02/27  |  **Python  and  Regression**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session13.html)  <br>  **  <br>  |
-|  8  |  14  |  M  |  03/02  |  **Unsupervised  Models**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session14.html)  <br>  *Assignment  7  due  03/09  11:59  PM*  <br>  |
-|  8  |  15  |  Th  |  03/05  |  **Unsupervised  Models**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session15.html)  |
+|  7  |  13  |  Th  |  02/27  |  **Python  and  Regression**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session13.html)  |
+|  8  |  14  |  M  |  03/02  |  **Unsupervised  Models**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session14.html)  <br>  **  <br>  |
+|  8  |  15  |  Th  |  03/05  |  **Midterm**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session15.html)  |
 |  9  |    |  M  |  03/09  |  **No-class  Spring  Break**  <br>    |
 |  9  |    |  Th  |  03/12  |  **No-class  Spring  Break**  <br>    |
 |  10  |  16  |  M  |  03/16  |  **Advanced  Supervised  Models**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session16.html)  |

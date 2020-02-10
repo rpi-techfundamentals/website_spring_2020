@@ -1,4 +1,4 @@
-<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Unsupervised  Models</h1> 
+<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Midterm</h1> 
 --- 
  
 ###  Description 
@@ -19,11 +19,4 @@ Unsupervised  models  are  frequently  used  to  subset  data  into  subpoluatio
 ###  Notebooks 
 --- 
 [See  all  notebooks  link.](https://rpi.analyticsdojo.com/notebooks/index.html) 
- 
- 
-###  Assignment 
---- 
- 
-|  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
-|  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
-|  7  |  03/09  |  Please  correct  your  midterm  as  homework.  Resubmit  to  same  repository.    |    |
+
