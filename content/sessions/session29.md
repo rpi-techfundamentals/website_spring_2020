@@ -26,4 +26,4 @@
  
 |  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
 |  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
-|  10  |  05/04  |  Final  project  submissions.  Please  include  all  sections.  Sumbit  to  LMS.  |    |
+|  10  |  05/04  |  Final  project  submissions.  Please  include  all  sections.  Submit  to  LMS.  |    |

@@ -29,4 +29,4 @@ Before  you  turn  this  problem  in,  make  sure  everything  runs  as  expecte
 |  7  |  [17](https://rpi.analyticsdojo.com/sessions/session17.html)  |  03/26  |  Please  correct  your  midterm  as  homework.  Resubmit  to  same  repository  as  the  midterm.  You  will  receive  partial  credit  on  midterm  (50%)  for  corrected  answers.      |    |
 |  8  |  [19](https://rpi.analyticsdojo.com/sessions/session19.html)  |  04/02  |  This  is  an  assignment  on  unsupervised  models.    |    |
 |  9  |  [20](https://rpi.analyticsdojo.com/sessions/session20.html)  |  04/06  |  Project  sections  1-3.  Submit  via  LMS.    |    |
-|  10  |  [28](https://rpi.analyticsdojo.com/sessions/session28.html)  |  05/04  |  Final  project  submissions.  Please  include  all  sections.  Sumbit  to  LMS.  |    |
+|  10  |  [28](https://rpi.analyticsdojo.com/sessions/session28.html)  |  05/04  |  Final  project  submissions.  Please  include  all  sections.  Submit  to  LMS.  |    |

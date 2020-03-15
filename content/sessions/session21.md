@@ -4,7 +4,7 @@
 ###  Description 
 --- 
  
-Time  series  and  panel  data  is  a  bit  different  and  requires  a  different  approach.    Here  we  cover  some  of  the  basics.   
+Lab/Homework 
  
 ###  Learning  Objectives 
 ---   

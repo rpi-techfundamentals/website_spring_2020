@@ -4,7 +4,7 @@
 ###  Description 
 --- 
  
-The  goal  of  this  class  is  to  investigate  basic  concepts  surrounding  text  mining. 
+Lab/Homework 
  
 ###  Learning  Objectives 
 ---   

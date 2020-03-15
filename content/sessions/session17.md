@@ -1,4 +1,4 @@
-<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Time  Series  Analysis,  Unsupervised  models.</h1> 
+<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Time  Series  Analysis,  Unsupervised  models</h1> 
 --- 
  
 ###  Description 

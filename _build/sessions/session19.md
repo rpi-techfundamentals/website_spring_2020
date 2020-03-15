@@ -14,7 +14,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ###  Description 
 --- 
  
-The  goal  of  this  class  is  to  investigate  basic  concepts  surrounding  text  mining. 
+Lab/Homework 
  
 ###  Learning  Objectives 
 ---   
