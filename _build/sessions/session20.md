@@ -14,7 +14,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ###  Description 
 --- 
  
-The  goal  here  is  to  provide  an  overview  of  how  data  processes  can  be  scaled  with  Spark. 
+Lab/Homework 
  
 ###  Learning  Objectives 
 ---   
@@ -29,4 +29,11 @@ The  goal  here  is  to  provide  an  overview  of  how  data  processes  can  b
 ###  Notebooks 
 --- 
 [See  all  notebooks  link.](https://rpi.analyticsdojo.com/notebooks/index.html) 
-
+ 
+ 
+###  Assignment 
+--- 
+ 
+|  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
+|  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
+|  9  |  04/06  |  Project  sections  1-3.  Submit  via  LMS.    |    |

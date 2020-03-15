@@ -1,10 +1,10 @@
-<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Text  and  NLP</h1> 
+<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Time  Series  Analysis,  Unsupervised  models.</h1> 
 --- 
  
 ###  Description 
 --- 
  
-Lab/homework 
+There  is  no  class,  but  will  be  available  for  meeting  about  project  during  class  time  and  office  hours.   
  
 ###  Learning  Objectives 
 ---   
@@ -19,4 +19,11 @@ Lab/homework
 ###  Notebooks 
 --- 
 [See  all  notebooks  link.](https://rpi.analyticsdojo.com/notebooks/index.html) 
-
+ 
+ 
+###  Assignment 
+--- 
+ 
+|  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
+|  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
+|  7  |  03/26  |  Please  correct  your  midterm  as  homework.  Resubmit  to  same  repository  as  the  midterm.  You  will  receive  partial  credit  on  midterm  (50%)  for  corrected  answers.      |    |

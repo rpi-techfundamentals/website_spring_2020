@@ -14,7 +14,7 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ###  Description 
 --- 
  
-*None* 
+The  goal  is  to  get  you  familiar  with  Spark  and  the  general  big  data  infrastructure.   
  
 ###  Learning  Objectives 
 ---   

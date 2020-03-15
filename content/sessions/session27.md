@@ -4,7 +4,7 @@
 ###  Description 
 --- 
  
-*None* 
+The  goal  is  to  get  you  familiar  with  Spark  and  the  general  big  data  infrastructure.   
  
 ###  Learning  Objectives 
 ---   

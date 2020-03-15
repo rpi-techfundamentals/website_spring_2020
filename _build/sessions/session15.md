@@ -29,11 +29,4 @@ Midterm
 ###  Notebooks 
 --- 
 [See  all  notebooks  link.](https://rpi.analyticsdojo.com/notebooks/index.html) 
- 
- 
-###  Assignment 
---- 
- 
-|  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
-|  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
-|  7  |  03/12  |  Please  correct  your  midterm  as  homework.  Resubmit  to  same  repository.    |    |
+

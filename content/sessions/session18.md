@@ -4,7 +4,7 @@
 ###  Description 
 --- 
  
-The  goal  of  this  class  is  to  investigate  basic  concepts  surrounding  text  mining. 
+Time  series  and  panel  data  is  a  bit  different  and  requires  a  different  approach.    Here  we  cover  some  of  the  basics.   
  
 ###  Learning  Objectives 
 ---   

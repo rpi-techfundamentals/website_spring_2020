@@ -1,10 +1,10 @@
-<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Advanced  Supervised  Models</h1> 
+<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Extended  Spring  Break</h1> 
 --- 
  
 ###  Description 
 --- 
  
-This  will  examine  some  cases  and  further  explore  the  modeling  process.   
+There  is  no  class,  but  will  be  available  for  meeting  about  project  during  class  time  and  office  hours.   
  
 ###  Learning  Objectives 
 ---   

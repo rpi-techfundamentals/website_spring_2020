@@ -1,10 +1,10 @@
-<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Introduction  to  Big  Data  </h1> 
+<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Text  and  NLP</h1> 
 --- 
  
 ###  Description 
 --- 
  
-Lab/homework 
+The  goal  of  this  class  is  to  investigate  basic  concepts  surrounding  text  mining. 
  
 ###  Learning  Objectives 
 ---   
@@ -19,4 +19,11 @@ Lab/homework
 ###  Notebooks 
 --- 
 [See  all  notebooks  link.](https://rpi.analyticsdojo.com/notebooks/index.html) 
-
+ 
+ 
+###  Assignment 
+--- 
+ 
+|  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
+|  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
+|  8  |  04/02  |  This  is  an  assignment  on  unsupervised  models.    |    |

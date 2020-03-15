@@ -29,4 +29,11 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 ###  Notebooks 
 --- 
 [See  all  notebooks  link.](https://rpi.analyticsdojo.com/notebooks/index.html) 
-
+ 
+ 
+###  Assignment 
+--- 
+ 
+|  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
+|  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
+|  10  |  05/04  |  Final  project  submissions.  Please  include  all  sections.  Sumbit  to  LMS.  |    |

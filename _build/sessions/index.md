@@ -27,21 +27,21 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 |  6  |  11  |  Th  |  02/21  |  **Introduction  to  R**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session11.html)  |
 |  7  |  12  |  M  |  02/24  |  **Python  and  Regression**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session12.html)  |
 |  7  |  13  |  Th  |  02/27  |  **Python  and  Regression**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session13.html)  |
-|  8  |  14  |  M  |  03/02  |  **Unsupervised  Models**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session14.html)  <br>  **  <br>  |
+|  8  |  14  |  M  |  03/02  |  **Unsupervised  Models**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session14.html)  |
 |  8  |  15  |  Th  |  03/05  |  **Midterm**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session15.html)  |
 |  9  |    |  M  |  03/09  |  **No-class  Spring  Break**  <br>    |
 |  9  |    |  Th  |  03/12  |  **No-class  Spring  Break**  <br>    |
-|  10  |  16  |  M  |  03/16  |  **Advanced  Supervised  Models**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session16.html)  |
-|  10  |  17  |  Th  |  03/19  |  **Advanced  Supervised  Models**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session17.html)  |
-|  11  |  18  |  M  |  03/23  |  **Text  and  NLP**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session18.html)  |
-|  11  |  19  |  Th  |  03/26  |  **Text  and  NLP**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session19.html)  |
-|  12  |  20  |  M  |  03/30  |  **Introduction  to  Big  Data**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session20.html)  |
+|  10  |  16  |  M  |  03/16  |  **Extended  Spring  Break**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session16.html)  <br>  **  <br>  |
+|  10  |  17  |  Th  |  03/19  |  **Extended  Spring  Break**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session17.html)  |
+|  11  |  18  |  M  |  03/23  |  **Time  Series  Analysis,  Unsupervised  models.**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session18.html)  <br>  **  <br>  |
+|  11  |  19  |  Th  |  03/26  |  **Text  and  NLP**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session19.html)  <br>  *Assignment  8  due  04/02  11:59  PM*  <br>  |
+|  12  |  20  |  M  |  03/30  |  **Text  and  NLP**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session20.html)  |
 |  12  |  21  |  Th  |  04/02  |  **Time  Series  Analysis**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session21.html)  |
 |  13  |  22  |  M  |  04/06  |  **Image  Data  and  Deep  Learning**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session22.html)  |
 |  13  |  23  |  Th  |  04/09  |  **Image  Data  and  Deep  Learning**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session23.html)  |
 |  14  |  24  |  M  |  04/13  |  **Automl  and  Modeling  Packages**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session24.html)  |
 |  14  |  25  |  Th  |  04/16  |  **Thanksgiving**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session25.html)  |
 |  15  |  26  |  M  |  04/20  |  **Automl  and  Model  Search**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session26.html)  |
-|  15  |  27  |  Th  |  04/23  |  **Final  Presentations**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session27.html)  |
+|  15  |  27  |  Th  |  04/23  |  **Big  Data**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session27.html)  <br>  **  <br>  |
 |  16  |  28  |  M  |  04/27  |  **Final  Presentations**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session28.html)  |
 |  17  |  29  |    |  TBD  |  **Final  Exam  11:30-2:30**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session29.html)  |
