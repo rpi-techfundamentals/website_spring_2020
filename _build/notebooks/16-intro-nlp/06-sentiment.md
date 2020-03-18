@@ -2,7 +2,7 @@
 interact_link: content/notebooks/16-intro-nlp/06-sentiment.ipynb
 kernel_name: python3
 has_widgets: false
-title: 'Sentiment'
+title: 'Sentiment - API'
 prev_page:
   url: /notebooks/16-intro-nlp/05-bag-popcorn-bag-words.html
   title: 'Bag of Popcorn Bag of Words'

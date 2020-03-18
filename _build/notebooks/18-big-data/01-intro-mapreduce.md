@@ -4,8 +4,8 @@ kernel_name: python3
 has_widgets: false
 title: 'Intoduction to MapReduce'
 prev_page:
-  url: /notebooks/16-intro-nlp/07-fastai-imdb.html
-  title: 'FAST.ai NLP'
+  url: /notebooks/16-intro-nlp/08-intro2.html
+  title: 'Overview of NLP V2'
 next_page:
   url: /notebooks/18-big-data/02-intro-spark.html
   title: 'Introduction to Spark'

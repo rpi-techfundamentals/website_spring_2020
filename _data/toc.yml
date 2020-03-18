@@ -281,7 +281,7 @@
   - title: Bag of Popcorn Bag of Words 
     url: /notebooks/16-intro-nlp/05-bag-popcorn-bag-words 
     not_numbered: true 
-  - title: Sentiment 
+  - title: Sentiment - API 
     url: /notebooks/16-intro-nlp/06-sentiment 
     not_numbered: true 
   - title: Overview of NLP 
@@ -289,6 +289,12 @@
     not_numbered: true 
   - title: FAST.ai NLP 
     url: /notebooks/16-intro-nlp/07-fastai-imdb 
+    not_numbered: true 
+  - title: Sentiment - Package 
+    url: /notebooks/16-intro-nlp/06-sentimentB 
+    not_numbered: true 
+  - title: Overview of NLP V2 
+    url: /notebooks/16-intro-nlp/08-intro2 
     not_numbered: true 
   - title: Intoduction to MapReduce 
     url: /notebooks/18-big-data/01-intro-mapreduce 
@@ -350,8 +356,6 @@
   - title: TF-Autoencoder and Gan 
     url: /notebooks/24-tensorflow/17_autoencoders_and_gans 
     not_numbered: true 
- 
- 
  
  
  

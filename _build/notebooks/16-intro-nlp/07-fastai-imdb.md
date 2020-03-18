@@ -7,8 +7,8 @@ prev_page:
   url: /notebooks/16-intro-nlp/02-intro-nlp.html
   title: 'Overview of NLP'
 next_page:
-  url: /notebooks/18-big-data/01-intro-mapreduce.html
-  title: 'Intoduction to MapReduce'
+  url: /notebooks/16-intro-nlp/06-sentimentB.html
+  title: 'Sentiment - Package'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 

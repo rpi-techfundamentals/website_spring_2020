@@ -44,4 +44,4 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 |  15  |  26  |  M  |  04/20  |  **Automl  and  Model  Search**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session26.html)  |
 |  15  |  27  |  Th  |  04/23  |  **Big  Data**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session27.html)  <br>  **  <br>  |
 |  16  |  28  |  M  |  04/27  |  **Final  Presentations**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session28.html)  |
-|  17  |  29  |    |  TBD  |  **Final  Exam  11:30-2:30**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session29.html)  |
+|  17  |  29  |  M  |  05/06  |  **Final  Exam  Wednesday,  May  6.  You  will  have  a  12  hour  window  starting  at  9:00  AM  to  complete  assigned  take  home  exam.**  <br>  [more](https://rpi.analyticsdojo.com/sessions/session29.html)  |

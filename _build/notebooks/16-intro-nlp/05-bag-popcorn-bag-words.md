@@ -8,7 +8,7 @@ prev_page:
   title: 'What's Cooking Python'
 next_page:
   url: /notebooks/16-intro-nlp/06-sentiment.html
-  title: 'Sentiment'
+  title: 'Sentiment - API'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 

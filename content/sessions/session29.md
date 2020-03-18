@@ -1,4 +1,4 @@
-<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Final  Exam    11:30-2:30    </h1> 
+<h1  style="font-family:  Verdana,  Geneva,  sans-serif;  text-align:center">Final  Exam    Wednesday,  May  6.    You  will  have  a  12  hour  window  starting  at  9:00  AM  to  complete  assigned  take  home  exam.</h1> 
 --- 
  
 ###  Description 
