@@ -266,6 +266,9 @@
   - title: Feature Selection and Importance 
     url: /notebooks/14-unsupervised/04-regression-feature-selection 
     not_numbered: true 
+  - title: COVID-19 Cluster 
+    url: /notebooks/14-unsupervised/05-covid19 
+    not_numbered: true 
   - title: Titanic Feature Creation 
     url: /notebooks/16-intro-nlp/01-titanic-features 
     not_numbered: true 
@@ -356,7 +359,6 @@
   - title: TF-Autoencoder and Gan 
     url: /notebooks/24-tensorflow/17_autoencoders_and_gans 
     not_numbered: true 
- 
  
  
  
