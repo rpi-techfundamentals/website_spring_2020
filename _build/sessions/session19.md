@@ -36,4 +36,4 @@ Lab/Homework
  
 |  #  |  Due  Date  |  Description  |  Starter  |  Submit  | 
 |  :---:  |  :---:  |  :-----  |  :---  |  :---  | 
-|  8  |  04/02  |  This  is  an  assignment  on  unsupervised  models.    |    |
+|  8  |  04/02  |  This  is  an  assignment  on  unsupervised  models.    |  [![Open  In  Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/hm-pca-cluster-starter/blob/master/studentpca.ipynb)  |  [Submit  to  Github](https://classroom.github.com/a/dgy69wCl)  |

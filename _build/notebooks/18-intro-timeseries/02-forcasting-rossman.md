@@ -17,9 +17,13 @@ comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /con
 
 
 
-# Time Series Analysis
+# Panel Data vs Time Series Analysis
 - - - - - - - -- - - - - - - -- - - - - - - - - - - 
 A **_time series_** is a series of data points indexed (or listed or graphed) in time order. Time series analysis pertains to methods extracting meaningful statistics from time series data. This is commonly used for forecasting and other models.
+
+A **_panel dataset_** are multi-dimensional data involving measurements for the same firm, entity, region, or person over time. 
+
+This is an example of a panel dataset, measuring multiple stores over time.  You can make it into a simple time series by selecting one store. 
 
 
 
